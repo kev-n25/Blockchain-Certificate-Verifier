@@ -138,7 +138,7 @@ Current Phase:
 
 ## Team
 
-(Add team member names here)
+Kevin Reji
 
 ---
 
